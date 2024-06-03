@@ -1,4 +1,4 @@
-# trabalho_RAD
+# trabalho_RAD /BRUNO ALMEIDA CORREA/BRUNO HENRIQUE SILVA PEREIRA/ 3002
 O QUE O PROJETO FAZ ?
  -Este projeto faz a execução simples de um conversor de moedas 
   entre as moedas em EURO(EUR),DOLAR(USD) e REAL(BRL)
