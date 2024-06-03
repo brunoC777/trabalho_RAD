@@ -27,7 +27,7 @@ def converter_moeda():
     except ValueError:
         messagebox.showerror("Erro", "Por favor, insira um valor numérico.")
 
-# Configuração da interface gráfica
+
 root = tk.Tk()
 root.title("Conversor de Moedas")
 
